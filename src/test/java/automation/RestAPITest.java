@@ -10,6 +10,7 @@ public class RestAPITest {
 		System.out.println("PostmanTest2");
 		System.out.println("PostmanTest3");
 		System.out.println("PostmanTest4");
+		System.out.println("PostmanTest5");
 	}
 	
 	@Test
